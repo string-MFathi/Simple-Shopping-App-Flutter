@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+#Design
+![giphy](https://user-images.githubusercontent.com/60022292/77373764-c14cf680-6d71-11ea-97db-c44cbf10d820.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
